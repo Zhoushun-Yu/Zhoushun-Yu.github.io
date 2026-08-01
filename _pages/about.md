@@ -16,13 +16,21 @@ I am Zhoushun Yu, a student interested in computer vision, deep learning, and ar
 - Generative Modeling
 - World Models
 
+## Publications
+
+**QQWorld: Quantile-Quantile Matching for World Model Regularization**  
+Zhoushun Yu, Xiaoyu Hu, and Xiangyu Xu.  
+arXiv preprint, 2026.  
+[[Paper](https://arxiv.org/abs/2607.28415)]
+
 ## Education
 
 - [Your degree], [Your university], [Year–Year]
 
 ## News
 
-- 2026: I launched my personal academic website.
+- **July 2026:** Our paper *QQWorld* was released on arXiv.
+- **August 2026:** I launched this personal website.
 
 ## Contact
 
