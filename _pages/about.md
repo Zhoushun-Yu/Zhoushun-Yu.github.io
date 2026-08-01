@@ -24,7 +24,6 @@ arXiv preprint, 2026.
 [[Paper](https://arxiv.org/abs/2607.28415)]
 
 ## Education
-## Education
 
 - M.Sc. in Statistics, Xi'an Jiaotong University, Sep. 2025–Present
 - B.Sc. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, Sep. 2021–Jun. 2025
