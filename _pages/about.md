@@ -25,7 +25,8 @@ arXiv preprint, 2026.
 
 ## Education
 
-- [Your degree], [Your university], [Year–Year]
+- M.Sc. in Statistics, Xi'an Jiaotong University, 2025–Present
+- B.Sc. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, 2021–2025
 
 ## News
 
