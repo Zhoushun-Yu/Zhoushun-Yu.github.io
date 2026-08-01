@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Zhoushun Yu"
   pronouns         :  
-  bio              : "Student interested in computer vision."
-  location         : "China"
+  bio              : "Student with research interests in computer vision, generative modeling, and world models."
+  location         : "Xi'an, China"
   employer         : 
   uri              : 
   email            :  
@@ -38,10 +38,10 @@ author:
   googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
