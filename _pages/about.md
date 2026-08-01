@@ -35,5 +35,4 @@ arXiv preprint, 2026.
 
 ## Contact
 
-Email: [your email]
 GitHub: [Zhoushun-Yu](https://github.com/Zhoushun-Yu)
