@@ -11,9 +11,10 @@ I am Zhoushun Yu, a student interested in computer vision, deep learning, and ar
 
 ## Research Interests
 
-- Computer Vision
-- Deep Learning
-- Artificial Intelligence
+- Monocular Depth Estimation
+- Optical Flow Estimation
+- Generative Modeling
+- World Models
 
 ## Education
 
