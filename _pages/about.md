@@ -31,7 +31,6 @@ arXiv preprint, 2026.
 ## News
 
 - **July 2026:** Our paper *QQWorld* was released on arXiv.
-- **August 2026:** I launched this personal website.
 
 ## Contact
 
