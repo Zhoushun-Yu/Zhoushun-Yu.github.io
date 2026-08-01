@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zhoushun Yu, a student interested in computer vision, deep learning, and artificial intelligence.
+I am Zhoushun Yu, an M.Sc. student in Statistics advised by [Prof. Xiangyu Xu](https://xuxy09.github.io/). My research interests include computer vision, generative modeling, and world models.
 
 ## Research Interests
 
@@ -24,9 +24,10 @@ arXiv preprint, 2026.
 [[Paper](https://arxiv.org/abs/2607.28415)]
 
 ## Education
+## Education
 
-- M.Sc. in Statistics, Xi'an Jiaotong University, 2025–Present
-- B.Sc. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, 2021–2025
+- M.Sc. in Statistics, Xi'an Jiaotong University, Sep. 2025–Present
+- B.Sc. in Mathematics and Applied Mathematics, Xi'an Jiaotong University, Sep. 2021–Jun. 2025
 
 ## News
 
