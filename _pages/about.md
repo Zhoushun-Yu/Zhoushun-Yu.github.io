@@ -17,10 +17,7 @@ I am Zhoushun Yu, an M.Sc. student in Statistics advised by [Prof. Xiangyu Xu](h
 - World Models
 
 ## Publications
-
 **QQWorld: Quantile-Quantile Matching for World Model Regularization**  
-**Zhoushun Yu**, Xiaoyu Hu<sup>&#42;</sup>, and Xiangyu Xu<sup>&#42;</sup>.<br>
-<small><sup>&#42;</sup> Corresponding authors.</small><br>
 *arXiv preprint*, 2026.  
 [[Paper](https://arxiv.org/abs/2607.28415)]
 
