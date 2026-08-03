@@ -31,5 +31,5 @@ I am Zhoushun Yu, an M.Sc. student in Statistics advised by [Prof. Xiangyu Xu](h
 - **July 2026:** Our paper *QQWorld* was released on arXiv.
 
 ## Contact
-
+Email: zhoushun478@gmail.com
 GitHub: [Zhoushun-Yu](https://github.com/Zhoushun-Yu)
